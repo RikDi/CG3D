@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1684757324 source:c:\users\rikdi\documents\c++ projects\lession nastavnik\lession 2\3dcg\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+

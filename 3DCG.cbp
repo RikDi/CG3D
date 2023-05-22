@@ -37,7 +37,7 @@
 			<Add library="glu32" />
 			<Add library="gdi32" />
 		</Linker>
-		<Unit filename="C:/Users/RikDi/Documents/c++ projects/lession nastavnik/lession 2/3DCG/main.c">
+		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
